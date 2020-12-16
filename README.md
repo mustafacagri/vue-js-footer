@@ -1,4 +1,18 @@
-# vue-js-footer
+# Vue Js Footer
+
+![altcenter](https://www.mustafacagri.com/wp-content/uploads/2020/12/vue-js-footer.png "Vue Js Footer")
+
+* In this really simple project, these technologies were used:
+Scss (Sass), Vue Components, Typescript, Jest (Unit Test)
+
+* This project is more of about Sass (CSS) usage, basically. And also you might have an idea about a bit using of components too.
+
+* There are two tests for components in tests/unit/components folder: **H3.spec.ts** and **Footer.spec.ts**. You can execute your test with **npm run test:unit**
+
+
+## Demo
+https://vue-js-footer.web.app/
+
 
 ## Project setup
 ```
